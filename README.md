@@ -7,4 +7,4 @@ The controls are paired with MIT App Inventor using bluetooth which is then conn
 
 # Program Flow
 ![Parts Control](https://user-images.githubusercontent.com/47893187/185803242-b22f92c5-1795-432e-9591-e61a918d5326.PNG)
-Upon bluetooth pairing between the MIT application and arduino, buttons on the applications can be held to send a one-byte integer, declared m, to the arduino software to run specific codes.
+<br/>Upon bluetooth pairing between the MIT application and arduino, buttons on the applications can be held to send a one-byte integer, declared m, to the arduino software to run specific codes.
