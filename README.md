@@ -14,3 +14,5 @@ Upon Bluetooth pairing between the MIT application and Arduino, buttons on the a
 ![Parts Control](https://user-images.githubusercontent.com/47893187/185803242-b22f92c5-1795-432e-9591-e61a918d5326.PNG)
 ![Android Application](https://user-images.githubusercontent.com/47893187/185803599-3d4d97f7-0af8-4a0e-8019-0f265f546d76.PNG)
 
+## More Information
+https://docs.google.com/document/d/19EISji5fLNfo3e7pLgWqR0BXlOZe1JrP4_DR7SwfCf8/edit?usp=sharing
