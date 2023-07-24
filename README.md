@@ -1,5 +1,5 @@
 ## Overview
-Creation of various parts of the arms was based on research on cycloidal gear system.
+The creation of various parts of the arms was based on research on cycloidal gear systems and subsequently 3D printed out.
 Programming controls for TLE9879 microcontroller and Arduino to execute the joints of the robotic arm
 are paired with MIT App Inventor using Bluetooth which is then connected to the Arduino UNO.
 
